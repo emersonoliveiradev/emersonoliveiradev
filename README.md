@@ -1,6 +1,7 @@
-### Hellow people! 👋
+### Hello people! 👋
 
-[ 👉 Linkedin](https://www.linkedin.com/in/emerson-oliveira-4582b9123/)
+
+Here's my [ 👉 Linkedin](https://www.linkedin.com/in/emerson-oliveira-4582b9123/)
 
 
 <!--
