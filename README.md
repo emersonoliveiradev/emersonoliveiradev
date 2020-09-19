@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Hard Skills: <strong>HTML5, CSS3, Bootstrap, StyledComponents, React Native, React JS, Python, JavaScript, PHP, Flask, Symphony e  Node.</strong>
+  🚀 Hard Skills: <strong>HTML5, CSS3, Bootstrap, StyledComponents, React Native, React JS, Python, JavaScript, PHP, Flask, Symfony e  Node.</strong>
 </p>
 
 <p align="left">
