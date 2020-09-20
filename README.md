@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Emerson e sou <strong>Desenvolvedor Full-Stack</strong>.<br>
+  Olá, meu nome é Emerson e sou <strong>Desenvolvedor Full Stack</strong>.<br>
   Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas, mas já atuo há quase 2 anos como desenvolvedor Back-End em uma empresa e          também como freelancer durante o tempo livre.
 </p>
 
