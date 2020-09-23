@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Hard Skills: <strong>HTML5, CSS3, Bootstrap, StyledComponents, React Native, React JS, Python, JavaScript, PHP, Flask, Symfony e  Node.</strong>
+  🚀 Main Skills: <strong>HTML5, CSS3, Bootstrap, StyledComponents, React Native, React JS, Python, JavaScript, PHP, Flask, Symfony e  Node.</strong>
 </p>
 
 <p align="left">
-  🚀 Soft Skills: <strong>Visão Computacional, Processamento de Linguagem Natural, Docker e Plataforma Raspberry PI3.</strong>
+  🚀 Others Skills: <strong>Visão Computacional, Processamento de Linguagem Natural, Docker e Plataforma Raspberry PI3.</strong>
 </p>
 
 <p align="left">
