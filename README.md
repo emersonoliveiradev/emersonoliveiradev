@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: <strong>JavaScript, Node, React-Native, ReactJS e iniciando com TypeScript.</strong>
+  🔥 Estudando atualmente: <strong>Inglês, JavaScript, Node, React-Native, ReactJS e iniciando com TypeScript.</strong>
 </p>
 
 
