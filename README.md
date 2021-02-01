@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🚀 Principais habilidades: <strong>HTML5, CSS3, Bootstrap, StyledComponents, React Native, React JS, Python, JavaScript, PHP, Flask, Symfony e  Node.</strong>
+  🚀 Principais habilidades: <strong>HTML5, CSS3, Bootstrap, StyledComponents, JavaScript, Node, React Native, Python e Flask.</strong>
 </p>
 
 <p align="left">
-  🚀 Outras habilidades: <strong>Visão Computacional, Processamento de Linguagem Natural, Docker e Plataforma Raspberry PI3.</strong>
+  🚀 Outras habilidades: <strong>Um pouco de Visão Computacional e Processamento de Linguagem Natural.</strong>
 </p>
 
 <p align="left">
-  🔥 Estudando atualmente: <strong>Inglês, JavaScript, Node, React-Native, ReactJS e iniciando com TypeScript.</strong>
+  🔥 Estudando atualmente: <strong>Inglês, React-Native e principalmente Python.</strong>
 </p>
 
 
